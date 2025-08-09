@@ -4,11 +4,11 @@
 const CONFIG = {
 	// Basic Profile Information
 	profile: {
-		image: "https://profilie.js.org/media/logo.png",
-		name: "Profilie Starter Kit - Free Templates for Social Profiles",
-		description: `A free pre-built templates for social profiles, portfolios & websites. Quickly create a sweet-looking website to highlight your social media presence.
-                  
-                  Customize your profile by visiting your <code>config.js</code> file in your own repository. You can also change this description to your desired one.`,
+		image: "https://harys.is-a.dev/images/harys722.png",
+		name: "- HARYs -",
+		description: `Hi, I'm harys. It's my nickname and it is actually the short form my real life name. Would you guess what's my real name? 😄 
+  					  <br /></br>
+		 			  I'm a young student from the Pakistan and I love coding, programming. My first hobby is web development. I work on various projects in GitHub. Check out <a href="https://domains.is-a.shop/" target="_blank">Free Domains</a> and <a href="https://gh-guides.rweb.site/" target="_blank">GitHub Guides</a>!`,
 
     // You may change the footer of your profile but keeping it intact will be appreciated.
 		footer: "Powered by <a href='https://github.com/profilie/profilie' target='_blank'>Profilie</a> - Free Templates for Social Profiles"
@@ -21,12 +21,12 @@ const CONFIG = {
 		// Popular Development Platforms
 		github: {
 			enabled: true,
-			url: "https://github.com/profilie/",
+			url: "https://github.com/harys722/",
 			title: "GitHub"
 		},
 		gitlab: {
-			enabled: false,
-			url: "https://gitlab.com/your-username",
+			enabled: true,
+			url: "https://gitlab.com/harys722",
 			title: "GitLab"
 		},
 		bitbucket: {
@@ -35,8 +35,8 @@ const CONFIG = {
 			title: "Bitbucket"
 		},
 		codepen: {
-			enabled: false,
-			url: "https://codepen.io/your-username",
+			enabled: true,
+			url: "https://codepen.io/harys722",
 			title: "CodePen"
 		},
 		replit: {
@@ -52,13 +52,13 @@ const CONFIG = {
 
 		// Communication Platforms
 		discord: {
-			enabled: false,
-			url: "https://discord.com/users/your-user-id",
+			enabled: true,
+			url: "https://discord.com/users/1203357768610746385",
 			title: "Discord"
 		},
 		email: {
 			enabled: true,
-			url: "mailto:hello@profilie.harys.is-a.dev",
+			url: "mailto:contact@harys.is-a.dev",
 			title: "Email"
 		},
 		telegram: {
@@ -84,8 +84,8 @@ const CONFIG = {
 
 		// Social Media Platforms
 		reddit: {
-			enabled: false,
-			url: "https://reddit.com/user/your-username/",
+			enabled: true,
+			url: "https://reddit.com/user/harys722/",
 			title: "Reddit"
 		},
 		twitter: {
@@ -119,8 +119,8 @@ const CONFIG = {
 			title: "Mastodon"
 		},
 		bluesky: {
-			enabled: false,
-			url: "https://bsky.app/profile/your-bluesky-handle",
+			enabled: true,
+			url: "https://bsky.app/profile/harys.is-a.dev",
 			title: "Bluesky"
 		},
 		threads: {
@@ -272,8 +272,8 @@ const CONFIG = {
 		// Personal Website/Portfolio
 		website: {
 			enabled: true,
-			url: "https://profilie.js.org/",
-			title: "Profilie"
+			url: "https://www.harys.is-a.dev/",
+			title: "Website"
 		}
 	}
 };
